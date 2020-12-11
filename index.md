@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# Welcome to Cici's first website
 
-You can use the [editor on GitHub](https://github.com/Cici114/Cici616.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# **关于我**
 
-### Markdown
+### 1.姓名
+`<陈楚楚>`
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 2.性别♀️♂️
+`<女>`
 
-```markdown
-Syntax highlighted code block
+### 3.国籍
+`<中国>`
 
-# Header 1
-## Header 2
-### Header 3
+### 4. 兴趣爱好
+##### 电影 
+##### 最喜欢的电影是*《怦然心动》*啊[https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3350648120,2058616111&fm=26&gp=0.jpg]
 
-- Bulleted
-- List
+#####  The higher I got, themore amazed I was by the view.
+#####  Some of us get dipped in flat, some in satin, some in gloss. 
+##### But every once in a while youfind someone who's iridescent, and when you do, nothing will ever compare.
 
-1. Numbered
-2. List
+### 5.教育经历	
+##### 小学
+###### 兴化市第一实验小学
+##### 初中
+###### 兴化市板桥初级中学
+##### 高中 
+###### 江苏省兴化中学
+##### 大学
+###### 南京理工大学
+ 
+### 6.所学专业	
+`<工业设计>`
 
-**Bold** and _Italic_ and `Code` text
+## **关于我所喜欢的**
+---
+ idol:`<范丞丞>`[https://baike.baidu.com/item/范丞丞/1296433?fr=aladdin]
+* [x]  乐观
+* [x]  礼貌
+* [x]  少年温度
+* [x]  沙雕偶像
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Cici114/Cici616.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
